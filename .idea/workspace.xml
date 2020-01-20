@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd15b505-5d89-4fa5-859a-e2e788ee9c53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/br/hrpasquati/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/br/hrpasquati/aplicacao/Programa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/br/hrpasquati/tabuleiro/Peca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/hrpasquati/boardgame/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/br/hrpasquati/tabuleiro/Posicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/hrpasquati/boardgame/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/br/hrpasquati/tabuleiro/Tabuleiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/hrpasquati/boardgame/Board.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -19,8 +28,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1WLQZYu8u1HBjmKetRYT0eTkML9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,14 +43,28 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
-    <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.br.hrpasquati.aplicacao.Programa" />
+  <component name="RunManager" selected="Application.Programa">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.br.hrpasquati.application.Program" />
       <module name="JogoDeXadrez" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.br.hrpasquati.aplicacao.*" />
+          <option name="PATTERN" value="com.br.hrpasquati.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.br.hrpasquati.aplicacao.Teste" />
+      <module name="JogoDeXadrez" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.br.hrpasquati.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,6 +75,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Programa" />
+        <item itemvalue="Application.Teste" />
       </list>
     </recent_temporary>
   </component>
@@ -76,25 +105,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1578928425580">
+    <state x="765" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1578929980200">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="222" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1578928425580" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1578927339411">
+    <state x="765" y="222" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1578929980200" />
+    <state x="693" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579531377250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1578927339411" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1578927339411">
+    <state x="693" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579531377250" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579532502281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1578927339411" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1578927339411">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579532502281" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579532502281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1578927339411" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1578927339411">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579532502281" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579532502281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1578927339411" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579532502281" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579532502281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579532502281" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579527638471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579527638471" />
   </component>
 </project>
