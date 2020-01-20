@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd15b505-5d89-4fa5-859a-e2e788ee9c53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/br/hrpasquati/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/br/hrpasquati/aplicacao/Programa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/br/hrpasquati/tabuleiro/Peca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/hrpasquati/boardgame/Piece.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/br/hrpasquati/tabuleiro/Posicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/hrpasquati/boardgame/Position.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/br/hrpasquati/tabuleiro/Tabuleiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/hrpasquati/boardgame/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/br/hrpasquati/boardgame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/hrpasquati/boardgame/Board.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,10 +101,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1578929980200">
+    <state x="765" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1579535346111">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="222" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1578929980200" />
+    <state x="765" y="222" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579535346111" />
     <state x="693" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579531377250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
